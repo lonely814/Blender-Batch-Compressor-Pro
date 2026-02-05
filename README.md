@@ -4,6 +4,10 @@
 
 [linux指南](https://github.com/lonely814/Blender-Batch-Compressor-Pro/blob/main/README_Linux.md)
 
+
+![ui](https://github.com/lonely814/Blender-Batch-Compressor-Pro/blob/main/Images/UI.jpg?raw=true)
+
+
 ## ✨ 新特性（Pro 版本）
 
 ### 🎯 核心功能
