@@ -2,6 +2,8 @@
 
 功能强大的 Blender 文件批量压缩工具，支持拖放、实时队列、质量调节和中断控制。
 
+[linux指南](https://github.com/lonely814/Blender-Batch-Compressor-Pro/blob/main/README_Linux.md)
+
 ## ✨ 新特性（Pro 版本）
 
 ### 🎯 核心功能
